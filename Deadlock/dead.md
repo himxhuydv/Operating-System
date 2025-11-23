@@ -1,0 +1,2 @@
+# Deadlock
+It's a state where set of processes waits for the resources that are currently held by other process each process can't let go of their resources beacuse of the system rule.as a result,processes get permanetly stuck or blocked forever as a result of circular waiting resources.each process can't get fully exectued because  of this 
