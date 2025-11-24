@@ -18,3 +18,5 @@ And that goes same for the Avaiable**if any Request=>avaiable denied that *reque
 2.**Safety Algorithm**:This is algorithm state as same as the name.A situation where every thing in the safe state or you can say there will be no possibility of getting deadlock situation.
 **Safe state**usually happens when the request get fullfill it's required needs and finally get fully executed that can be written in state of the safe sequence is term as the safe state.
 <P1,P2,P3,P4....Pn> if this sequence is generated it mean every process get's fully executed without getting in to any Deadlock state.
+
+So,there is so much numerical is being asked in the Gate Exam.
