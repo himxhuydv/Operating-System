@@ -2,7 +2,7 @@
 (Before starting this topic you will need the prior knowledge about the deadlock.if you don't know about that consider my advise and  go checkout my deadlock notes.i am here providing you the acess URl.)[Deadlock](file:///C:/Users/ashay/OneDrive/Desktop/SACRIFICES%20OF%20COMFORT/Operating-System/Deadlock/Deadlock.md)
 So,bascially the Banker Algorithm is a deadlock avoidance is a algorithm used in Operating system to ensure that resource are allocated to the process without ever leading a deadlock 
 *you can say it's a deadlock prevention technique which is used for safely transfer of the resources without any problem*
-*There are two kind og Algo inside of the Banker's Algorithm :-
+*There are two kind of Algo inside of the Banker's Algorithm :-
 1.Resource Request Algorithm.
 2.Safety Algorithm.
 
